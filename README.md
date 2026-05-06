@@ -18,7 +18,7 @@ JavaScript
 - Secciones de servicios y planes
 - UI atractiva
 
-# 📁 Estructura del proyecto
+📁 Estructura del proyecto
 ValhallaGYM_page/
 ├── index.html
 ├── css/
