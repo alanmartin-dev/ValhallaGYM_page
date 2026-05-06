@@ -21,6 +21,7 @@ JavaScript
 # 🚀 Cómo ejecutar el proyecto
 Clona el repositorio:
 - git clone https://github.com/alanmartin-dev/ValhallaGYM_page.git
+
 *Ejecuta:*
 Abre index.html en tu navegador
 o
