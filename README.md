@@ -18,13 +18,6 @@ JavaScript
 - Secciones de servicios y planes
 - UI atractiva
 
-📁 Estructura del proyecto
-ValhallaGYM_page/
-├── index.html
-├── css/
-├── js/
-├── imgs/
-└── assets/
 # 🚀 Cómo ejecutar el proyecto
 Clona el repositorio:
 git clone https://github.com/alanmartin-dev/ValhallaGYM_page.git
