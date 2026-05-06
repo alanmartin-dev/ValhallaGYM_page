@@ -6,10 +6,10 @@ Este proyecto fue desarrollado como práctica de desarrollo web frontend, aplica
 
 
 # 🧱 Tecnologías utilizadas
-HTML5
-CSS3
-Java
-JavaScript
+- HTML5
+- CSS3
+- Java
+- JavaScript
 
 # Características
 
